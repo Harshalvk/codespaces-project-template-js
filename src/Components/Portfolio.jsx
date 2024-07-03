@@ -32,14 +32,12 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Horizon Heaven",
-    description:
-      "A Full-Stack Real estate marketplace.",
+    description: "A Full-Stack Real estate marketplace.",
     url: "https://github.com/Harshalvk/HorizonHaven",
   },
   {
     title: "Twitter Clone",
-    description:
-      "A Twitter clone built with React and Firebase.",
+    description: "A Twitter clone built with React and Firebase.",
     url: "https://github.com/Harshalvk/twitter-clone",
   },
   {
